@@ -1,7 +1,7 @@
-Proje Adı
+# Proje Adı
 Gelir-Gider Takip Uygulaması
 
-Açıklama
+# Açıklama
 Bu proje, Python dili kullanılarak geliştirilmiş basit bir masaüstü “Gelir-Gider Takip” uygulamasıdır.
 
 GUI: customtkinter kütüphanesi ile tasarlanmıştır.
@@ -18,7 +18,7 @@ Gelir Ekleme Sayfası
 
 Kullanıcı, gelir ve giderlerini ekleyebilir; eklenmiş verileri görüntüleyebilir, düzenleyebilir veya silebilir. Böylece aylık/haftalık bazda finans takibi yapılabilir.
 
-Özellikler
+# Özellikler
 Temel Görünüm
 
 Tüm gelir ve gider kalemleri listelenir.
@@ -57,24 +57,24 @@ Standart Python kütüphaneleri: os, datetime, sqlite3, Calendar, locale, custom
 Kurulum ve Çalıştırma
 Aşağıdaki adımları izleyerek projeyi kendi bilgisayarında çalıştırabilirsin:
 
-1- Depoyu Klonla;
+# 1- Depoyu Klonla;
 git clone https://github.com/kullaniciadi/proje-adi.git
 cd proje-adi
 
-2- Sanal Ortam (Virtual Environment) Oluştur (Önerilir);
+# 2- Sanal Ortam (Virtual Environment) Oluştur (Önerilir);
 python -m venv venv
-# Windows:
+  Windows:
 venv\Scripts\activate
-# macOS/Linux:
+  macOS/Linux:
 source venv/bin/activate
 
-3- Gerekli Paketleri Yükle
+# 3- Gerekli Paketleri Yükle
 pip install customtkinter
 
-4- Uygulamayı Çalıştır
+# 4- Uygulamayı Çalıştır
 python main.py
 
-Kullanım
+# Kullanım
 Ana Sayfa (Temel Görünüm)
 
 Uygulama açıldığında burası görüntülenir.
@@ -104,16 +104,18 @@ Kayıtları filtreleyip girilen inputa göre filtreleyebilirsiniz.
 Kayıt üzerine tıklayıp güncelleyebilir veya silebilirsiniz.
 
 
-Anasayfa
+# Anasayfa
 ![Ekran görüntüsü 2025-06-01 210002](https://github.com/user-attachments/assets/e5b3c8a5-c5a4-4dd3-b393-6322a4916bf4)
 
-Kayıtlar
+# Kayıtlar
 ![Ekran görüntüsü 2025-06-01 210041](https://github.com/user-attachments/assets/46b99de5-908b-49d1-b783-9edb9a2f9d5d)
 
-Kayıt Ekranı
+# Kayıt Ekranı
+
 ![Ekran görüntüsü 2025-06-01 210116](https://github.com/user-attachments/assets/04f361a5-d3bc-41cb-b845-ac45a25f868c)
 
-Kayıt Düzenleme
+# Kayıt Düzenleme
+
 ![Ekran görüntüsü 2025-06-01 210212](https://github.com/user-attachments/assets/a6db0402-ae68-4026-9651-b3219e3eea5b)
 
 
