@@ -108,12 +108,13 @@ Anasayfa
 ![Ekran görüntüsü 2025-06-01 210002](https://github.com/user-attachments/assets/e5b3c8a5-c5a4-4dd3-b393-6322a4916bf4)
 
 Kayıtlar
-![Ekran görüntüsü 2025-06-01 210002](https://github.com/user-attachments/assets/bf71d36e-54e3-49f2-bbac-07a0481c5a8d)
+![Ekran görüntüsü 2025-06-01 210041](https://github.com/user-attachments/assets/46b99de5-908b-49d1-b783-9edb9a2f9d5d)
 
 Kayıt Ekranı
-![Ekran görüntüsü 2025-06-01 210002](https://github.com/user-attachments/assets/04b530c7-e170-483c-a249-084fed19132f)
+![Ekran görüntüsü 2025-06-01 210116](https://github.com/user-attachments/assets/04f361a5-d3bc-41cb-b845-ac45a25f868c)
 
 Kayıt Düzenleme
-![Ekran görüntüsü 2025-06-01 210002](https://github.com/user-attachments/assets/886f48dd-b7e1-4ebf-86ed-7742c4d7e6e6)
+![Ekran görüntüsü 2025-06-01 210212](https://github.com/user-attachments/assets/a6db0402-ae68-4026-9651-b3219e3eea5b)
+
 
 
